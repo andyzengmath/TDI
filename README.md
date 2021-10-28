@@ -1,6 +1,8 @@
 # TDI project proposal: Analyzing Airbnb data  
 
 
+## Data
+Basic data: U.S. Airbnb Open Data. Ideally we should have a time-dependent Airbnb data (or other similar ones should be sufficient). The difficulty is to combined different sources of data into a organized one, which needs a lots of data cleaning and wrangling. We need a good data crawling skills as well as data processing skills.  
 
 ## Project 
 
@@ -15,8 +17,6 @@ Something similar to 1st step already exists, but the second step might not to c
 ## Potential end-users
 It could be either rental companies/individuals or travel companies or real estate agents, which shares some common properties of Airbnb data. This problem is not urgent, but it will be profitable in the long run. 
 
-## Data
-Basic data: U.S. Airbnb Open Data. Ideally we should have a time-dependent Airbnb data (or other similar ones should be sufficient). The difficulty is to combined different sources of data into a organized one, which needs a lots of data cleaning and wrangling. We need a good data crawling skills as well as data processing skills.  
 
 ## Deliver the result
 We can use a time-dependent train-validation procedure (or some kinds of cross-validations), and there are bunch of metrics can be applied, and we may adjust them for our purpose. Finally, we will use various data visualizations to show our results.
